@@ -55,6 +55,7 @@ Principais comandos ensinados na aula **Introdução ao Git e ao GitHub** da pla
 
 ## :dart: Outros Assuntos Abordados
 
+
 1. SHA (Secure Hash Algorithm): conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional);
 2. Objetos internos do Git (Blobs, Trees e Commits);
 3. Chaves SSH (forma de estabelecer uma conexão segura e encriptada entre duas máquinas) e Tokens;
