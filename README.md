@@ -53,7 +53,7 @@ Principais comandos ensinados na aula **Introdução ao Git e ao GitHub** da pla
 
 
 
-##:dart: Outros Assuntos Abordados
+## :dart: Outros Assuntos Abordados
 
 
 
